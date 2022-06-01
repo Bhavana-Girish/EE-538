@@ -1,3 +1,3 @@
 # EE-538
 This is first discussion related setup
-Cloning file from gits
+Cloning file from git
